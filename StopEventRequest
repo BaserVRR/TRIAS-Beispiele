@@ -11,9 +11,12 @@
 									<Text>Gelsenkirchen Hbf</Text>
 								</LocationName>
 							</LocationRef>
+							<DepArrTime>2026-03-14T14:50:00Z</DepArrTime>
 						</Location>
 						<Params>
 							<StopEventType>departure</StopEventType>
+							<NumberOfResults>5</NumberOfResults>
+              <IncludeRealtimeData>true</IncludeRealtimeData>
 						</Params>
 					</StopEventRequest>
         </RequestPayload>
