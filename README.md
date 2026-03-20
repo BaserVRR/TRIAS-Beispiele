@@ -14,7 +14,7 @@ Der Request wird über eine POST-Anfrage erzeugt. Der Body wird im XML-Format an
 Beispiele für den Body sind in den Files zu finden
 Die API Unterstützt u.a. 
 - [LocationInformationRequest](https://github.com/BaserVRR/TRIAS-Beispiele/blob/main/LocationInformationRequest)
-- [StopEventRequest](https://github.com/BaserVRR/TRIAS-Beispiele/blob/main/StopEventRequest)
+- [StopEventRequest](https://github.com/BaserVRR/TRIAS-Beispiele/blob/main/TRIAS/StopEventRequest.md)
 - TripRequest
   - [Mit Koordinaten als Input](https://github.com/BaserVRR/TRIAS-Beispiele/blob/main/Trip%20addressInput%20(Koordinaten))
   - [Mit DHIDs als Input](https://github.com/BaserVRR/TRIAS-Beispiele/blob/main/TripRequest)
