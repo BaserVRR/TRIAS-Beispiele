@@ -12,12 +12,12 @@ Die Nutzung eines Browsers alleine reicht nicht aus, da POST-Anfragen für TRIAS
 ## Request erzeugen
 Der Request wird über eine POST-Anfrage erzeugt. Der Body wird im XML-Format an die API geliefert. 
 Beispiele für den Body sind in den Files zu finden
-Die API Unterstützt u.a. 
-- [LocationInformationRequest](https://github.com/BaserVRR/TRIAS-Beispiele/blob/main/LocationInformationRequest)
+Die API Unterstützt u.a. folgende Bodys:
+- [LocationInformationRequest](https://github.com/BaserVRR/TRIAS-Beispiele/blob/main/TRIAS/LocationInformationRequest.md)
 - [StopEventRequest](https://github.com/BaserVRR/TRIAS-Beispiele/blob/main/TRIAS/StopEventRequest.md)
 - TripRequest
   - [Mit Koordinaten als Input](https://github.com/BaserVRR/TRIAS-Beispiele/blob/main/Trip%20addressInput%20(Koordinaten))
-  - [Mit DHIDs als Input](https://github.com/BaserVRR/TRIAS-Beispiele/blob/main/TripRequest)
+  - [Mit DHIDs als Input](https://github.com/BaserVRR/TRIAS-Beispiele/blob/main/TRIAS/TripRequest.md)
 
 Der Body wird über einen POST-Request an den Server https://openservice-test.vrr.de/opendataT/trias geschickt.
 Ein Token ist nicht notwendig.
