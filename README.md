@@ -15,8 +15,9 @@ Beispiele für den Body sind in den Files zu finden
 Die API Unterstützt u.a. 
 - [LocationInformationRequest](https://github.com/BaserVRR/TRIAS-Beispiele/blob/main/LocationInformationRequest)
 - [StopEventRequest](https://github.com/BaserVRR/TRIAS-Beispiele/blob/main/StopEventRequest)
-- [TripAdressInput](https://github.com/BaserVRR/TRIAS-Beispiele/blob/main/Trip%20addressInput%20(Koordinaten))
-- [TripRequest](https://github.com/BaserVRR/TRIAS-Beispiele/blob/main/TripRequest)
+- TripRequest
+  - [Mit Koordinaten als Input](https://github.com/BaserVRR/TRIAS-Beispiele/blob/main/Trip%20addressInput%20(Koordinaten))
+  - [Mit DHIDs als Input](https://github.com/BaserVRR/TRIAS-Beispiele/blob/main/TripRequest)
 
 Der Body wird über einen POST-Request an den Server https://openservice-test.vrr.de/opendataT/trias geschickt.
 Ein Token ist nicht notwendig.
