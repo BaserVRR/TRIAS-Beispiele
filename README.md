@@ -1,8 +1,9 @@
 # TRIAS-Auskünfte erstellen
+## API-Zugang
 Für Dokumentation und Zugang zur Schnittstelle: https://www.opendata-oepnv.de/ht/de/organisation/verkehrsverbuende/vrr/openvrr/api
 
 ## Software für API-Zugang
-Für den Zugang zur API empfehlen wir ein passendes Tool, z.B.:
+Für die Nutzung der API empfehlen wir ein passendes Tool, z.B.:
 - Postman:  https://www.postman.com/
 - Insomnia: https://insomnia.rest/
 
@@ -25,3 +26,8 @@ Als Header wird benötigt:
 
 Der Server antwortet mit einer XML-Datei, die den TRIAS-Spezifikationen entspricht.
 
+## Links und weitere Informationen
+OpenData: https://www.opendata-oepnv.de/ht/de/organisation/verkehrsverbuende/vrr/openvrr/api \
+Nutzungsvereinbarung API: https://www.opendata-oepnv.de/ht/de/standards/nutzungsvereinbarung-api \
+TRIAS-API: https://openservice-test.vrr.de/opendataT/trias \
+TRIAS-Dokumentation: https://www.vdv.de/ip-kom-oev.aspx# 
